@@ -3,8 +3,11 @@ project(CCLab)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CCLab Exp6.cpp Exp8.cpp)
+add_executable(CCLab Exp6.cpp)
 add_executable(NewFile Exp5.cpp)
 add_executable(Exp3 Exp3.cpp)
 add_executable(Exp4 Exp4.cpp)
 add_executable(Exp7 Exp7.cpp)
+add_executable(Exp8 Exp8.cpp)
+add_executable(Exp1.1 Exp1.1.cpp)
+add_executable(Exp1.2 Exp1.2.cpp)
